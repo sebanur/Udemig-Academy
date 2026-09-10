@@ -7,7 +7,8 @@ Udemig Academy is a responsive website designed for an academy that provides sof
 HTML5, CSS3, Sass / SCSS, Google Fonts, Responsive Web Design
 
 <h3>Preview</h3>
-![] (udemig.gif)
+
+![](udemig.gif)
 
 
 
